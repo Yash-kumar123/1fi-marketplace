@@ -14,7 +14,8 @@
     "android": {
       "adaptiveIcon": {
         "backgroundColor": "#F5F5F7"
-      }
+      },
+      "package": "com.shaktimaang789.x1fimarketplace"
     },
     "web": {
       "bundler": "metro"

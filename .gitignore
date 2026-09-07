@@ -38,3 +38,14 @@ Desktop.ini
 *.njsproj
 *.sln
 *.sw?
+
+# Build outputs
+build-output/
+*.apk
+*.aab
+
+# Local Android properties & keystores
+android/local.properties
+*.keystore
+!debug.keystore
+
